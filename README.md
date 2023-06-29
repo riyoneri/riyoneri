@@ -1,4 +1,4 @@
-## Hi experts <img src="https://github.com/riyoneri/riyoneri/assets/113932119/54704054-dce6-457e-b23a-552fb329594a" width="30px">
+## Oh, you here! <img src="https://github.com/riyoneri/riyoneri/assets/113932119/54704054-dce6-457e-b23a-552fb329594a" width="30px">
 
 I'm Lionel Kaneza, a passionate full-stack developer with expertise in Node.js, MongoDB, React, and Next.js.
 
